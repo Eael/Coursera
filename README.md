@@ -1,2 +1,2 @@
-# Datasciencecoursera
-A repo required by a data science course
+# Coursera
+A repo to be used for cousera courses
